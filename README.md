@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sudarshan B S
+- 👋 Hi, I’m Sudarshan B S
 - 👀 I’m interested in ... C#.Net, ASP.Net, VB.Net, SQL (PostGreSQL, MS SQL Server) 
 - 🌱 I’m currently learning ... Diploma in .Net Programming
 - 💞️ I’m looking to collaborate on ... Software Technologies AF
