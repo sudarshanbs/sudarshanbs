@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudarshan B S
-- 👀 I’m interested in ... C#.NET, VB.NET, ASP.NET Core, SQL (PostGreSQL, MS SQL Server) 
-- 🌱 I’m currently learning ... Diploma in .NET Programming
+- 👀 I’m interested in ... C#, SQL (PostgreSQL), HTML, CSS, JavaScript, jQuery, Bootstrap, React JS, Node JS
+- 🌱 I’m currently learning ... Full-Stack Web Development
 - 💞️ I’m looking to collaborate on ... Software Technologies AF
 - 📫 How to reach me ... Have a Look at my Email!
 
