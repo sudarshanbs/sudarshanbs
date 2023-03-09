@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sudarshan B S
-- 👀 I’m interested in ... C#, SQL, HTML, CSS, JavaScript, jQuery, Bootstrap, ReactJS, NodeJS
-- 🌱 I’m currently learning ... Full-Stack Web Development
+- 👀 I’m interested in ... C#, MySQL, HTML, CSS, Selenium, Python, Automation
+- 🌱 I’m currently learning ... Selenium + Python (Automation)
 - 💞️ I’m looking to collaborate on ... Software Technologies AF
 - 📫 How to reach me ... Have a Look at my Email!
 
