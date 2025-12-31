@@ -1,6 +1,6 @@
 👋 Hi, I'm <strong> Sudarshan B S </strong>  
 
-💼 Currently working as: <strong> Data Management Associate I @ LabCorp </strong>  
+💼 Currently working as: <strong> Data Management Associate </strong>  
 
 👀 I'm interested in: <strong> MySQL, Oracle SQL, Excel, Power BI, Tableau, Python, and Data Analytics </strong>  
 
