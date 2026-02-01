@@ -8,7 +8,7 @@
 
 🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management projects </strong>  
 
-📫 How to reach me: <strong> Contact me via Email. </strong> 
+📫 How to reach me: <strong> Contact me via Email </strong> 
 
 
 <!---
