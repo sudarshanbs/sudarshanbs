@@ -4,7 +4,7 @@
 
 👀 My areas of interest include: <strong> MySQL, Oracle SQL, Microsoft Excel, Power BI, Python, and Data Analytics </strong>  
 
-🌱 I'm currently enhancing my skills in: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, and Excel & Python for Data Analysis </strong> 
+🌱 I'm enhancing my skills in: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, and Excel & Python for Data Analysis </strong> 
 
 🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management projects </strong>  
 
