@@ -1,14 +1,14 @@
 👋 Hi, I'm <strong> Sudarshan B S </strong>  
 
-💼 Currently working as: <strong> Data Management Associate </strong>  
+💼 Currently working as: <strong> Data Management Associate at LabCorp </strong>  
 
-👀 I'm interested in: <strong> MySQL, Oracle SQL, Excel, Power BI, Tableau, Python, and Data Analytics </strong>  
+👀 My areas of interest include: <strong> MySQL, Oracle SQL, Microsoft Excel, Power BI, Python, and Data Analytics </strong>  
 
-🌱 I'm currently learning: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, Excel & Python for Data Analysis </strong> 
+🌱 I'm currently enhancing my skills in: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, and Excel & Python for Data Analysis </strong> 
 
-🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management Projects </strong>  
+🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management projects </strong>  
 
-📫 How to reach me: <strong> Check out my Email! </strong>  
+📫 How to reach me: <strong> Contact me via Email. </strong> 
 
 
 <!---
