@@ -4,7 +4,7 @@
 
 👀 My areas of interest include: <strong> Selenium, Java, REST Assured, MySQL, Python, and Power BI </strong>  
 
-🌱 I'm enhancing my skills in: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, and Excel & Python for Data Analysis </strong> 
+🌱 I'm enhancing my skills in: <strong> Test Automation Frameworks, REST API Testing, and AI-Assisted Testing Workflows </strong> 
 
 🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management projects </strong>  
 
