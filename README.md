@@ -6,7 +6,7 @@
 
 🌱 I'm enhancing my skills in: <strong> Test Automation Frameworks, REST API Testing, and AI-Assisted Testing Workflows </strong> 
 
-🤝 I'm looking to collaborate on: <strong> Database Technologies and Data Management projects </strong>  
+🤝 I'm looking to collaborate on: <strong> AI-Powered Test Automation and API Testing Projects </strong>  
 
 📫 How to reach me: <strong> Contact me via Email </strong> 
 
