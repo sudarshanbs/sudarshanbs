@@ -1,8 +1,8 @@
 👋 Hi, I'm <strong> Sudarshan B S </strong>  
 
-💼 Currently working as: <strong> Data Management Associate at LabCorp </strong>  
+💼 Currently working as a <strong> Data Management Associate at LabCorp </strong>  
 
-👀 My areas of interest include: <strong> MySQL, Oracle SQL, Microsoft Excel, Power BI, Python, and Data Analytics </strong>  
+👀 My areas of interest include: <strong> Selenium, Java, REST Assured, MySQL, Python, and Power BI </strong>  
 
 🌱 I'm enhancing my skills in: <strong> Database Fundamentals, SQL Queries & Basic Query Optimization, and Excel & Python for Data Analysis </strong> 
 
